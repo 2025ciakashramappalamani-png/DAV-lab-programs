@@ -1,14 +1,5 @@
-"""
-EDA Operations using Pandas / NumPy
-
-This script demonstrates the operations listed in the reference document
-"EDA Operations Pandas / NumPy Command".
-"""
-
 import numpy as np
 import pandas as pd
-
-
 # 1. Load CSV
 df = pd.read_csv("data.csv")
 
